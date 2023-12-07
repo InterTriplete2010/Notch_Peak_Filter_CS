@@ -10,4 +10,4 @@ Comb/Peak Filter: the function is "double[][] iircomb_cpp(double order, double B
 
 Filter the data: the method is "double[] Filter_Data_NCP(double[][] coeff_filt, double[] pre_filt_signal)". The two arguments are the filter coefficients and the signal to be filtered. It returns the filtered signal.
 
-If you have any questions and/or want to report bugs, please e-mail me (Ale) at: pressalex@hotmail.com
+If you have any questions and/or want to report bugs, please e-mail me (Ale) at: pressalex@hotmail.com.
